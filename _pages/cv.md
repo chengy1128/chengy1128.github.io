@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+# Education
 
 * B.S. in Michigan State University, 2015-2020
 * M.S. in University of Southern California, 2020-2022
 
-## Research experience
+# Research experience
 
 
 **GRADUATE RESEARCHER| DR.VSEVOLOD KATRITCH, COMPUTATIONAL BIOLOGY, USC| PRESENT**
@@ -39,7 +39,7 @@ estruses. Conduct Immunofluorescence quantitative analysis for tumor samples.
 * Prepare pre-use chemical solutions in laboratory. Duty of care in relation to hazardous chemicals as a reporter.
 * Provide technical documentation, analyzed data, reports, presentations and protocols
 
-## Work experience
+# Work experience
 
 **GENOMIC ANALYST | ARRAYGENE. PVT LTD | FEB 2021- CURRENT**
 Conducting Reference-based RNASeq Data Analysis on target sample data base including:
@@ -58,7 +58,7 @@ Assistant of EGR 100. Provide project help on robotic design and academic writin
 for all the teaching laboratories are available. Assist in the collection of chemistry laboratory wastes and
 arrange for temporary storage of wastes
 
-## Skills
+# Skills
 
 * Proficient software: 
   * Python, Matlab, R, Pymol,Metamorph, Rosetta, Aspen Molsoft, High-performance Computing, Linux,KEGG Mapper, Cytoscapes,FastQC, Cutadapt
