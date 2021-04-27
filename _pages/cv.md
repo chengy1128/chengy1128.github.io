@@ -20,10 +20,6 @@ Research experience
 **GRADUATE RESEARCHER| DR.VSEVOLOD KATRITCH, COMPUTATIONAL BIOLOGY, USC| PRESENT**
   * Developing computational approaches to experimentally restrained conformational modeling with the integration of biophysical and biochemical data within the 3D structural framework.
   * Current project: Structure-based discovery of Frizzled GPCR Ligand
-Apply Structure Relationship Analysis on Smoothened receptor (SMO) ligands comparing to Apo FZD4
-binding sites. Based on SMO receptor and FZD4 transmembrane domain analog, docking SMO ligand library
-into FZD4 through ICM. Apply Virtual SYNThon Hierarchical Enumeration Screening approach on FZD4
-receptor.
 
 **RESEARCH ASSISTANT| DR. DANIEL WOLDRING, CHEMICAL ENGINEERING, MSU|SEP2019 -JUN 2020**
   * Main Design Area: Protein Engineering, aligns in machine learning aspects of protein engineering in designing a high binding affinity protein library, evolving strong binders with high specificity using a strategic collection of small, stable protein scaffolds.
