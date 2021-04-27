@@ -42,6 +42,7 @@ estruses. Conduct Immunofluorescence quantitative analysis for tumor samples.
 # Work experience
 
 **GENOMIC ANALYST | ARRAYGENE. PVT LTD | FEB 2021- CURRENT**
+
 Conducting Reference-based RNASeq Data Analysis on target sample data base including:
 * Gene Expression Quantification & Differential expression analysis
 * Pathway & Gene ontology enrichment analysis & Pathway Network analysis
