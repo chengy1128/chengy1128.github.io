@@ -41,20 +41,20 @@ estruses. Conduct Immunofluorescence quantitative analysis for tumor samples.
 
 # Work experience
 
-**GENOMIC ANALYST | ARRAYGENE. PVT LTD | FEB 2021- CURRENT**
+**GENOMIC ANALYST, ARRAYGENE. PVT LTD, FEB 2021- CURRENT**
 
 Conducting Reference-based RNASeq Data Analysis on target sample data base including:
 * Gene Expression Quantification & Differential expression analysis
 * Pathway & Gene ontology enrichment analysis & Pathway Network analysis
 Project: Differential Scaling of Gene Expression with Cell Size in Budding Yeast
 
-**UNDERGRADUATE TUTOR | COLLEGE OF ENGINEERING, MSU |OCT 2016 – MAY 2017**
+**UNDERGRADUATE TUTOR, COLLEGE OF ENGINEERING, MSU, OCT 2016 – MAY 2017**
 * Provide academic support during the assigned hour. Develop study resources to students and hold exam
 review session.
 *  Lecture Assistant of EGR 102 Provide homework help on MATLAB and EXCEL software. Lecture
 Assistant of EGR 100. Provide project help on robotic design and academic writing.
 
-**STOCKROOM TECHNICIAN| DEPARTMENT OF CHEMISTRY, MSU | SEP 2016-JAN 2017**
+**STOCKROOM TECHNICIAN, DEPARTMENT OF CHEMISTRY, MSU , SEP 2016-JAN 2017**
 * Support of the chemistry teaching laboratories, ensuring that adequate supplies of reagents and equipment
 for all the teaching laboratories are available. Assist in the collection of chemistry laboratory wastes and
 arrange for temporary storage of wastes
