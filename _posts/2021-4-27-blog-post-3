@@ -1,0 +1,13 @@
+---
+title: 'Literature Review and thoughts: Identify drug combination by Particle Swarm Optimization'
+date: 2021-04-27
+permalink: /posts/2021/04/blog-post-3/
+tags:
+  - cool posts
+  - Particle Swarm Optimization
+  - Gradient descent 
+  - System Biology
+  - Literature Reivew
+  
+---
+Recently I read a interesting article that demostrated how Particle Swarm Optimization(PSO) provide a efficient method to infer unknown parameters in traditional Mass Action model. <a href="https://cancerres.aacrjournals.org/content/70/17/6704">This paper</a> specifically focused on IGFR-1 signaling network. The grandiose context of this research aims to investigate the complex dynamic network by which targeted drugs affect multiple targets. 
