@@ -66,8 +66,8 @@ og_image                 : "https://pbs.twimg.com/profile_images/136538045535728
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Person # Person or Organization (defaults to Person)
+  name                   : Yun Cheng # If the user or organization name differs from the site's name
   links: "https://chengy1128.github.io/"
 
 
