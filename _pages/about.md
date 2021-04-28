@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p>
-<img src="https://img.icons8.com/emoji/452/dna.png" style="float:right;width:10px;height:10px;">
-</p>
+
 
 As a passionate and detail-oriented graduate student, I enjoy approaching complex projects with computational biology to reveal the principles that underlie biological function. I was trained with advancement of computational modeling methods with data analysis techniques to understand biological phenomena and health pattern, such as controlling, and exploiting the immune system to treat a range of diseases or reprograming of tumor cell metabolism to terminate metastasis. In the future, I hope I can solve human being’s hard-to-treat diseases, make efforts to new therapeutics, and discover or synthesis high value chemicals that can perform  advance improvement in medical care.
 
-
+<p>
+<img src="https://i1.wp.com/scasource.net/wp-content/uploads/2019/08/RNA2.png?fit=2000%2C688&ssl=1" width="400" height="136">
+</p>
 ## Recent updates
 
 **Nailed the Interview!**
