@@ -15,6 +15,11 @@ redirect_from:
 * M.S. in University of Southern California, 2020-2022
 
 # Research experience
+**Research Intern| Dr. Ali Torkamani,|Scripps Translational Science Institute| Jun 2021**
+  * Quality control and imputed UK Biobank data of British/Irish people with PLINK2 and QCtool.
+  * Perform Genome Wide Association Study on over 1.5T UK Biobank data. Apply Linear Mixed Model with
+LOCO CV scheme on 50 quantitative and qualitative Traits. Reproduced Results of Regenie tool.
+  * Perform Gene-set analysis and Tissue expression analysis
 
 
 **GRADUATE RESEARCHER| DR.VSEVOLOD KATRITCH, COMPUTATIONAL BIOLOGY, USC| PRESENT**
