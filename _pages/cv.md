@@ -15,59 +15,53 @@ redirect_from:
 * M.S. in University of Southern California, 2020-2022
 
 # Research experience
-**Research Intern| Dr. Ali Torkamani,|Scripps Translational Science Institute| Jun 2021**
-  * Quality control and imputed UK Biobank data of British/Irish people with PLINK2 and QCtool.
-  * Perform Genome Wide Association Study on over 1.5T UK Biobank data. Apply Linear Mixed Model with
-LOCO CV scheme on 50 quantitative and qualitative Traits. Reproduced Results of Regenie tool.
-  * Perform Gene-set analysis and Tissue expression analysis
-
-
-**GRADUATE RESEARCHER| DR.VSEVOLOD KATRITCH, COMPUTATIONAL BIOLOGY, USC| PRESENT**
-  * Developing computational approaches to experimentally restrained conformational modeling with the integration of biophysical and biochemical data within the 3D structural framework.
-  * Current project: Structure-based discovery of Frizzled GPCR Ligand
-
-**RESEARCH ASSISTANT| DR. DANIEL WOLDRING, CHEMICAL ENGINEERING, MSU|SEP2019 -JUN 2020**
-  * Main Design Area: Protein Engineering, aligns in machine learning aspects of protein engineering in designing a high binding affinity protein library, evolving strong binders with high specificity using a strategic collection of small, stable protein scaffolds.
-  * Project: Affibody interface mutation design(PDBID: 2b88,1h0T,1LP1,2KZI). Determine the lists of positions and amino acids that could give rise to the paratope geometries based on a gradient of site-wise diversity. (Concave, Convex, Flat)
-  
-**DATA SCIENTIST TRAINING WITH DR. ARJUN KRISHNAN, MSU | MAY 2019 - SEPTEMBER 2019**
-* Perform genome-wide association (GWAS) analysis on computational genomics & biomedical data from Opentarget.org by Python and R.
-* Use statistics & machine learning to mine data and build predictive model.
-* Develop computational methods to turn big data into actionable biomedical insights.
-
-**RESEARCH ASSISTANT WITH DR. RICHARD SCHWARTZ ,MICROBIOLOGY, MSU| MAY 2016 – MAY 2019**
-* Complete immunostaining (IHC), such as H&E staining, Trichrome Staining, Brdu Injection and detecting
-estruses. Conduct Immunofluorescence quantitative analysis for tumor samples.
-* General Surgery on Mammary gland of BALB/c Mice.
-* Conduct Polymerase chain reaction (PCR) for Tumor tissue.
-* Feed and Palpate BALB/c Mice. Provide appropriate care to all groups animal including setting up new cages indeed and monitor the weaning cages on a day basis.
-* Prepare pre-use chemical solutions in laboratory. Duty of care in relation to hazardous chemicals as a reporter.
-* Provide technical documentation, analyzed data, reports, presentations and protocols
-
-# Work experience
-
-**GENOMIC ANALYST, ARRAYGENE. PVT LTD, FEB 2021- CURRENT**
-
-Conducting Reference-based RNASeq Data Analysis on target sample data base including:
-* Gene Expression Quantification & Differential expression analysis
-* Pathway & Gene ontology enrichment analysis & Pathway Network analysis
-Project: Differential Scaling of Gene Expression with Cell Size in Budding Yeast
-
-**UNDERGRADUATE TUTOR, COLLEGE OF ENGINEERING, MSU, OCT 2016 – MAY 2017**
-* Provide academic support during the assigned hour. Develop study resources to students and hold exam
-review session.
-*  Lecture Assistant of EGR 102 Provide homework help on MATLAB and EXCEL software. Lecture
-Assistant of EGR 100. Provide project help on robotic design and academic writing.
-
-**STOCKROOM TECHNICIAN, DEPARTMENT OF CHEMISTRY, MSU , SEP 2016-JAN 2017**
-* Support of the chemistry teaching laboratories, ensuring that adequate supplies of reagents and equipment
-for all the teaching laboratories are available. Assist in the collection of chemistry laboratory wastes and
-arrange for temporary storage of wastes
-
+**Staff Research Associate III — Moores Cancer Center, UCSD Health**
+06/2022 – 10/2023 San Diego, CA
+● Independently conducted clinical research in urological oncology, specializing in testicular germ cell cancer.
+● Bioinformatics Analysis: Performed DNA/RNA seq analysis using tools such as cufflinks, TopHat, STAR, GATK,
+SAMtools, bwa, bowtie, and Mpileup.
+● Molecular Biology Skills: Hands-on experience in managing DNA/RNA extraction and quality control from serum,
+frozen blood, and FFPE samples. Conducted PCR and qPCR assays for gene expression analysis and nucleic acid
+quantification.
+● Lab Management: As Lab Manager, established an entirely new lab from scratch within a 6-month period,
+overseeing all lab affairs, including equipment procurement, financial accounting, record keeping and inventory
+control.
+**Graduate Researcher – Quantitative and Computational Biology Department, USC**
+07/2020 – 05/2022 Los Angeles, CA
+● Data Analysis: Employed 64 cores on USC's HPC servers to manage structure-based screening for ligands of GPCR,
+with an expansive 11-billion-molecule dataset. Leveraged Linux and open-source batch processing techniques.
+● Computational Modeling: Conducted 4D flexible protein docking through ICM-Pro, a C++-based software,
+interfacing via both Linux command line and UI tools for enhanced molecular modeling capabilities.
+**Research Intern – Scripps Translational Science Institute**
+06/2021 – 12/2021 La Jolla, CA
+● Investigated the relationship between BMI and LDL cholesterol through statistical modeling and machine
+learning.
+● Genomic Data Analysis: Wrote Python code to perform a Genome-Wide Association Study on 1.5TB of UK
+Biobank data using linear mixed models to identify common genetic variants that modulate the cholesterol-BMI
+relationship. Performed gene-set analysis and tissue expression analysis via FUMA-GWAS.
+● Data Quality Control & Feature Engineering: Conducted quality control and feature engineering on UK Biobank
+data using specialized tools like PLINK2 and QCtool.
+● Machine Learning: Implemented ML models such as Generalized Additive Models, ElasticNet, and XGBoost in R
+**Genomic Analyst – ArrayGen**
+02/2021 – 05/2021 Los Angeles, CA
+● RNA-Seq Data Analysis: Conducted in-depth analysis of target sample databases, focusing on Gene Expression
+Quantification and Differential Expression Analysis. Undertook Pathway Network Analysis and Gene Ontology
+Enrichment Analysis, utilizing tools such as Cytoscape, KEGG, and GSEA
+**Research Assistant – Department of Chemical Engineering, Michigan State University**
+09/2019 – 06/2020 East Lansing, MI
+● Protein Library Design: Used Rosetta to design a high binding affinity protein library. Evolved strong binders with
+high specificity using a strategic collection of small, stable protein scaffolds.
+● Affibody Interface Research: Researched affibody interface mutation design, identifying positions and amino
+acids to optimize binding properties.Research Assistant – Department of Microbiology & Molecular Genetics, Michigan State University
+05/2016 – 05/2019 East Lansing, MI
+● Molecular Biology Skills: Conducted immunostaining such as H&E staining and Trichrome staining. Detected
+estrus stages under the microscope and performed immunofluorescence quantitative analysis for mammary
+gland tumor samples.
+● Animal Care and Experiments: Managed care for BALB/c mice, including feeding, palpation, setting up new
+cages, and daily monitoring of weaning cages. Performed Brdu injection. Performed general surgeries on the
+mammary gland of BALB/c mice, adhering to ethical guidelines and surgical protocol
 # Skills
-
-* Proficient software: 
-  * Python, Matlab, R, Pymol,Metamorph, Rosetta, Aspen Molsoft, High-performance Computing, Linux,KEGG Mapper, Cytoscapes,FastQC, Cutadapt
-* Laboratory Skills: 
-  * NMR, PCR, HLPC, Gas chromatography–mass spectrometry (GC-MS), Flow Cytometry
-
+Programming: Python, Matlab, R, Shell scripting, Linux
+Software & Tools: Pymol, MetaMorph, Rosetta, Aspen, Molsoft-ICM, NGS pipeline, FUMA-GWAS
+Data: MySQL, Excel, HPC
+Lab Techniques: PCR, qPCR, RT-PCR, NGS, Gel Electrophoresis, Immunostaining (IHC), General Surgery on Mice
