@@ -11,8 +11,8 @@ redirect_from:
 
 # Education
 
-* B.S. in Michigan State University, 2015-2020
-* M.S. in University of Southern California, 2020-2022
+* B.S. in Michigan State University,2020
+* M.S. in University of Southern California, 2022
 
 # Research experience
 **Staff Research Associate III — Moores Cancer Center, UCSD Health**
@@ -70,12 +70,14 @@ Enrichment Analysis, utilizing tools such as Cytoscape, KEGG, and GSEA
 
 09/2019 – 06/2020 East Lansing, MI
 
-● Protein Library Design: Used Rosetta to design a high binding affinity protein library. Evolved strong binders with
+● Protein Library Design: Used Rosetta to design a high-binding affinity protein library. Evolved strong binders with
 high specificity using a strategic collection of small, stable protein scaffolds.
 
 ● Affibody Interface Research: Researched affibody interface mutation design, identifying positions and amino
 acids to optimize binding properties.Research Assistant – Department of Microbiology & Molecular Genetics, Michigan State University
 05/2016 – 05/2019 East Lansing, MI
+
+**Research Assistant – Department of Molecular Biology and Genetics, Michigan State University**
 
 ● Molecular Biology Skills: Conducted immunostaining such as H&E staining and Trichrome staining. Detected
 estrus stages under the microscope and performed immunofluorescence quantitative analysis for mammary
